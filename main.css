@@ -188,7 +188,7 @@ input:checked ~ .bubble::after{
     opacity: 0.75;
 }
 .todo-item .actions .edit{
-    margin-right: 0.5rem;
+    margin-left: 0.5rem;
     background-color: var(--primary);
 }
 .todo-item .actions .delete{
